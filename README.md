@@ -1,2 +1,3 @@
 # hello-world
-just another repository kek
+print("Hello world")
+raw_input()
